@@ -4,7 +4,7 @@
 * 저자: Gordon E. Moore
 * 출판/발행 연도: 1965년 (Electronics Magazine)
 * 키워드: #IntegratedCircuit #MooresLaw #Semiconductor #Microelectronics
-* 링크: https://ieeexplore.ieee.org/document/4785860
+* [논문 링크](https://ieeexplore.ieee.org/document/4785860)
 
 ## Key Points  and Findings
 - **IC(Integrated Circuit)에 더 많은 부품을 집적할수록 비용은 감소하고 성능은 증가한다.**\
@@ -72,7 +72,7 @@
     (*수율: 웨이퍼 한 장에 설계된 총 칩 수 대비 실제 정상 칩 비율 <-> 불량률)\
     처음에는 칩이 커지면 불량 때문에 비싸지지만 기술 발전으로 수율이 올라가면 더 큰 칩이 오히려 더 싸게 된다. 
 
-    ![alt text](image-1.png)
+    ![moore_cost_curve](moore_cost_curve.png)
 
 5. **Two-Mil Squares**
 
@@ -89,7 +89,7 @@
     수율 향상에는 엔지니어링 matters. not 물리적 한계\
     -> 공정 정밀도 높이고 먼지 제거, 장비 개선, 설계 개선하면 불량 줄일 수 있다. 
 
-    ![alt text](image-2.png)
+    ![law_log_plot](moores_law_log_plot.png)
 
 7. **Heat Problem**
 
@@ -115,7 +115,7 @@
 
 ### Side note
 
-![alt text](image.png)
+![future_home_computer](future_home_computer.png)
 -> 논문에 나오는 흥미로운 그림\
 모어 예언 성공!
 
